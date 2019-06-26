@@ -1,0 +1,9 @@
+This is my first git................welcome to git chingum................!!!!!!!!!!!!
+
+class HelloGit{
+main(){
+syso("heiiiii");
+     
+}
+
+}
