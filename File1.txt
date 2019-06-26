@@ -2,7 +2,7 @@ This is my first git................welcome to git chingum................!!!!!!
 
 class HelloGit{
 public static void main(String str[]){
-syso("heiiiii");
+system.out.println("heiiiii");
      
 }
 }
