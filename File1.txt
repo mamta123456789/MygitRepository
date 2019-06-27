@@ -1,8 +1,13 @@
 This is my first git................welcome to git chingum................!!!!!!!!!!!!
 
 class HelloGit{
+
+void HelloGit(){
+sysout("Hello to the git");
+}
+
 public static void main(String str[]){
-system.out.println("heiiiii");
+
      
 }
 }
