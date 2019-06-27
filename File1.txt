@@ -3,11 +3,12 @@ This is my first git................welcome to git chingum................!!!!!!
 class HelloGit{
 
 void HelloGit(){
-sysout("Hello to the git");
+sysout("Hello ...........to the git.............");
 }
 
 public static void main(String str[]){
-
+HelloGit e=new HelloGit();
+obj.hellogit();
      
 }
 }
